@@ -2,7 +2,7 @@
 
 This site is a place for Rebaz Pappiland to share memories and events of his life with those who are interested. The goal of this site is to make the readers interested in travel, nature, food and martial arts and hopefully make the them take that step out of their comfort zone. Life is beautiful and meant to explore and take part.
 
-![Responsive Mockup](/workspaces/Project1/assets/images/amiresponsive.jpg)
+![Responsive Mockup](assets/images/amiresponsive.jpg)
 
 ## Features 
 
@@ -17,7 +17,6 @@ to Rebaz Pappiland social media.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](./assets/images/navbar.jpg)
-![Nav Bar](assets/images/navbar.jpg)
 
 - __The landing page image__
 
