@@ -57,7 +57,7 @@ to Rebaz Pappiland social media.
 
 - Some features I would like to implement is a short text attached to each photo that tells something about that special moment.
 - When the user sign up, they will get a email everytime i post something new on my site or my social media sites.
-- After the user have sign-up a site would appear that shows the most recents photos/videos from Rebaz Pappiland social media accounts.
+- After the user have sign up a site would appear that shows the most recents photos/videos from Rebaz Pappiland social media accounts.
 
 ## Testing 
 
@@ -73,6 +73,8 @@ One bugg that i encounter was creating space between pictures on the gallery pag
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+- Accessibility
+  - I confirmed that the colors and fonts chosen are easy to read and acceessible by running it through lighthouse in devtools.
 
 ### Unfixed Bugs
 
@@ -95,7 +97,7 @@ I have also used some of the code from the project [Love Running](https://learn.
 ### Content 
 
 - The design and, icons and fonts was taken from the project [Love Running](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LRFX101+2023_Q2/courseware/e805068059af42af87681032aa64053f/1da6ad13213740f1855a51d30a2375b1/)
-- Instructions on how to implement the code to my project was taken from [Supersimpledev] and [love Running].
+- Instructions on how to implement the code to my project was taken from [Supersimpledev] and [Love Running].
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
