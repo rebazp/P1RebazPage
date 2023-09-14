@@ -6,8 +6,8 @@ This site is a place for Rebaz Pappiland to share memories and events of his lif
 
 ## Features 
 
-The site contains a homepage which describes who Rebaz Pappiland is. A gallery page with pictures from Rebaz most special memories witht the goal to make the readers create their own memories. It can be something just as easy as take a walk in the nearest wood or beach.
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+The homepage describes who Rebaz Pappiland is. A gallery page with pictures from Rebaz most special memories witht the goal to make the readers create their own memories. It can be something just as easy as take a walk somewhere beautiful or try martial arts. A footer with external links 
+to Rebaz Pappiland social media.
 
 ### Existing Features
 
@@ -20,63 +20,52 @@ In this section, you should go over the different parts of your project, and des
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph of Rebaz Pappiland with text overlay to allow the user to see a short introduction who Rebaz Pappiland is. 
+  - This section introduces the user to Rebaz Pappiland with an eye catching picture and text to grab their attention.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __Reason/Who is Rebaz Pappiland section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - This section will allow the user to see a more in-depth introduction to who Rebaz Pappiland is. 
+  - This section is for the user to read more about Rebaz and see if they are interested in my passions and the reasons to why the user would want to know more about me in the future. Hopefully encourage them to make changes in their own life and create special memories. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Who is Rebaz Pappiland](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for Rebaz Pappiland. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The gallery will provide the user with images to see some of Rebaz special memories. 
+  - This section is valuable to the user as they will see photographs of beautiful places Rebaz have visited. Hopefully make the user eager to visit similar places and try martial arts.
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to Rebaz Pappiland newsletter. The user will be able specify if they would like to take part in travel, martial arts or both. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
-- Another feature idea
+- Some features I would like to implement is a short text attached to each photo that tells something about that special moment.
+- When the user sign up, they will get a email everytime i post something new on my site or my social media sites.
+- After the user have sign-up a site would appear that shows the most recents photos/videos from Rebaz Pappiland social media accounts.
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+During the project I haven't encounter many buggs. Since I used much of the code from another project (Love Running) it was quiet easy to write and adapt the code so that it fits my project.
+The header work as intended and is adaptive to different screen size and is always shown at the top no matter which page the user is on for easy navigation. The same goes for the other pages. 
+The pictures I have used are taken by me and doesn't break any copyright rules. The gallery page is responsive and clear and contains enough pictures to make the user interested.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+One bugg that i encounter was creating space between pictures on the gallery page. The preview in Codeanywhere showed correct layout but not the browser. I fixed this by updating the project to Github and refreshed the browser. I have noticed that Codeanywhere can be slow sometimes.
 
 ### Validator Testing 
 
