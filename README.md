@@ -2,7 +2,7 @@
 
 This site is a place for Rebaz Pappiland to share memories and events of his life with those who are interested. The goal of this site is to make the readers interested in travel, nature, food and martial arts and hopefully make the them take that step out of their comfort zone. Life is beautiful and meant to explore and take part.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup](https://rebazp-project1-jdepzzxoix.us2.codeanyapp.com/files/download/?id=869f03ba-52ad-4045-a811-64c9cc02b111)
 
 ## Features 
 
@@ -16,41 +16,41 @@ to Rebaz Pappiland social media.
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](https://rebazp-project1-jdepzzxoix.us2.codeanyapp.com/files/download/?id=00979607-e891-48c8-8ee6-5f3c408ce693)
 
 - __The landing page image__
 
   - The landing includes a photograph of Rebaz Pappiland with text overlay to allow the user to see a short introduction who Rebaz Pappiland is. 
   - This section introduces the user to Rebaz Pappiland with an eye catching picture and text to grab their attention.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://rebazp-project1-jdepzzxoix.us2.codeanyapp.com/files/download/?id=71e87dbb-cacd-495c-a2f4-a8e7e97f56a6)
 
 - __Reason/Who is Rebaz Pappiland section__
 
   - This section will allow the user to see a more in-depth introduction to who Rebaz Pappiland is. 
   - This section is for the user to read more about Rebaz and see if they are interested in my passions and the reasons to why the user would want to know more about me in the future. Hopefully encourage them to make changes in their own life and create special memories. 
 
-![Who is Rebaz Pappiland](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Who is Rebaz Pappiland](https://rebazp-project1-jdepzzxoix.us2.codeanyapp.com/files/download/?id=d6d97fc6-d862-43c0-9bdc-958590133b63)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Rebaz Pappiland. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://rebazp-project1-jdepzzxoix.us2.codeanyapp.com/files/download/?id=10f81bd4-17cf-42d9-8cbd-6b9ae51b83ab)
 
 - __Gallery__
 
   - The gallery will provide the user with images to see some of Rebaz special memories. 
   - This section is valuable to the user as they will see photographs of beautiful places Rebaz have visited. Hopefully make the user eager to visit similar places and try martial arts.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](https://rebazp-project1-jdepzzxoix.us2.codeanyapp.com/files/download/?id=10585acb-c7ce-412c-87df-c5a2652a58e7)
 
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Rebaz Pappiland newsletter. The user will be able specify if they would like to take part in travel, martial arts or both. The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](https://rebazp-project1-jdepzzxoix.us2.codeanyapp.com/files/download/?id=a8e63400-125c-458d-892d-d2fd0f2166de)
 
 
 ### Features Left to Implement
