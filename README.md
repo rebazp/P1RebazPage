@@ -1,13 +1,12 @@
-# Love Running
+# Rebaz Pappiland
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+This site is a place for Rebaz Pappiland to share memories and events of his life with those who are interested. The goal of this site is to make the readers interested in travel, nature, food and martial arts and hopefully make the them take that step out of their comfort zone. Life is beautiful and meant to explore and take part.
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
+The site contains a homepage which describes who Rebaz Pappiland is. A gallery page with pictures from Rebaz most special memories witht the goal to make the readers create their own memories. It can be something just as easy as take a walk in the nearest wood or beach.
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
