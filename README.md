@@ -16,41 +16,41 @@ to Rebaz Pappiland social media.
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](./assets/images/navbar.jpg)
+![Nav Bar](assets/images/navbar.jpg)
 
 - __The landing page image__
 
   - The landing includes a photograph of Rebaz Pappiland with text overlay to allow the user to see a short introduction who Rebaz Pappiland is. 
   - This section introduces the user to Rebaz Pappiland with an eye catching picture and text to grab their attention.
 
-![Landing Page](/workspaces/Project1/assets/images/landingpage.jpg)
+![Landing Page](assets/images/landingpage.jpg)
 
 - __Reason/Who is Rebaz Pappiland section__
 
   - This section will allow the user to see a more in-depth introduction to who Rebaz Pappiland is. 
   - This section is for the user to read more about Rebaz and see if they are interested in my passions and the reasons to why the user would want to know more about me in the future. Hopefully encourage them to make changes in their own life and create special memories. 
 
-![Who is Rebaz Pappiland](/workspaces/Project1/assets/images/whoisrebaz.jpg)
+![Who is Rebaz Pappiland](assets/images/whoisrebaz.jpg)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Rebaz Pappiland. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer](/workspaces/Project1/assets/images/footer.jpg)
+![Footer](assets/images/footer.jpg)
 
 - __Gallery__
 
   - The gallery will provide the user with images to see some of Rebaz special memories. 
   - This section is valuable to the user as they will see photographs of beautiful places Rebaz have visited. Hopefully make the user eager to visit similar places and try martial arts.
 
-![Gallery](/workspaces/Project1/assets/images/gallery.jpg)
+![Gallery](assets/images/gallery.jpg)
 
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Rebaz Pappiland newsletter. The user will be able specify if they would like to take part in travel, martial arts or both. The user will be asked to submit their full name and email address. 
 
-![Sign Up](/workspaces/Project1/assets/images/signup.jpg)
+![Sign Up](assets/images/signup.jpg)
 
 
 ### Features Left to Implement
