@@ -55,7 +55,7 @@ header a {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
@@ -105,6 +105,7 @@ main {
     width: 100%;
     background: url("../images/4.jpg") no-repeat center center/cover;
     position: relative;
+    background-size: contain;
 }
 
 #cover-text {
@@ -136,8 +137,8 @@ main {
     font-size: 280%;
 }
 
-#benefits-physical > div,
-#benefits-mental > div {
+#benefits-physical>div,
+#benefits-mental>div {
     line-height: 20px;
     margin-bottom: 20px;
 }
@@ -173,7 +174,7 @@ main {
     width: 100%;
     line-height: 1em;
     padding: 5px;
-    
+
 }
 
 #photos {
@@ -245,6 +246,8 @@ main {
     padding: 5%;
     color: #3a3a3a;
 }
+
+
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
