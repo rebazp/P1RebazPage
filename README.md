@@ -65,7 +65,9 @@ During the project I haven't encounter many buggs. Since I used much of the code
 The header work as intended and is adaptive to different screen size and is always shown at the top no matter which page the user is on for easy navigation. The same goes for the other pages. 
 The pictures I have used are taken by me and doesn't break any copyright rules. The gallery page is responsive and clear and contains enough pictures to make the user interested.
 
-One bugg that i encounter was creating space between pictures on the gallery page. The preview in Codeanywhere showed correct layout but not the browser. I fixed this by updating the project to Github and refreshed the browser. I have noticed that Codeanywhere can be slow sometimes.
+One bugg that i encounter was creating space between pictures on the gallery page. The preview in Codeanywhere showed correct layout but not the browser. I fixed this by updating the project to Github and refreshed the browser.
+Another bug that I got was when changing between get and post in the signup link. The page didnt direct me to the sucess page as intended. After some git push and refresh it finally worked.
+I have noticed that Codeanywhere can be slow sometimes.
 
 ### Validator Testing 
 
