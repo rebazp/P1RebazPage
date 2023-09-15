@@ -7,7 +7,7 @@ This site is a place for Rebaz Pappiland to share memories and events of his lif
 ## Features 
 
 The homepage describes who Rebaz Pappiland is. A gallery page with pictures from Rebaz most special memories witht the goal to make the readers create their own memories. It can be something just as easy as take a walk somewhere beautiful or try martial arts. A footer with external links 
-to Rebaz Pappiland social media.
+to Rebaz social media.
 
 ### Existing Features
 
@@ -20,21 +20,21 @@ to Rebaz Pappiland social media.
 
 - __The landing page image__
 
-  - The landing includes a photograph of Rebaz Pappiland with text overlay to allow the user to see a short introduction who Rebaz Pappiland is. 
-  - This section introduces the user to Rebaz Pappiland with an eye catching picture and text to grab their attention.
+  - The landing includes a photograph of Rebaz with text overlay to allow the user to see a short introduction who Rebaz Pappiland is. 
+  - This section introduces the user to Rebaz with an eye catching picture and text to grab their attention.
 
 ![Landing Page](assets/images/landingpage.jpg)
 
 - __Reason/Who is Rebaz Pappiland section__
 
-  - This section will allow the user to see a more in-depth introduction to who Rebaz Pappiland is. 
+  - This section will allow the user to see a more in-depth introduction to who Rebaz is. 
   - This section is for the user to read more about Rebaz and see if they are interested in my passions and the reasons to why the user would want to know more about me in the future. Hopefully encourage them to make changes in their own life and create special memories. 
 
 ![Who is Rebaz Pappiland](assets/images/whoisrebaz.jpg)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Rebaz Pappiland. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Rebaz. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
 ![Footer](assets/images/footer.jpg)
@@ -48,9 +48,15 @@ to Rebaz Pappiland social media.
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Rebaz Pappiland newsletter. The user will be able specify if they would like to take part in travel, martial arts or both. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to Rebaz newsletter. The user will be able specify if they would like to take part in travel, martial arts or both. The user will be asked to submit their full name and email address. 
 
 ![Sign Up](assets/images/signup.jpg)
+
+- __The Success page__
+
+  - This page will appear when the user have successfully signed up for the newsletter. The user will be able to stay up to date with Rebaz latest adventures.
+
+![Success](assets/images/success.jpg)
 
 
 ### Features Left to Implement
