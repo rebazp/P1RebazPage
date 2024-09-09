@@ -95,7 +95,7 @@ I have noticed that Codeanywhere can be slow sometimes.
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://8000-rebazp-p1rebazpage-xlivf1u0783.ws-eu116.gitpod.io/
+The live link can be found here - https://rebazp.github.io/Project1/
 
 ## Credits 
 
